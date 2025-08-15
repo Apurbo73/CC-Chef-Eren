@@ -1,6 +1,5 @@
 ﻿# CC-Chef-Eren
 
-Here’s the key difference between the two:
 
 ---
 
@@ -40,3 +39,4 @@ That’s why you got **43** with the first version but **45** with the second.
 ---
 
 If you want, I can show a small table for `a=11` so you can **see exactly where the extra even comes from**.
+
