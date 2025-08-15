@@ -34,9 +34,9 @@
 * `range(a)` → counts numbers `0` to `a-1` → adds an *extra even number* (`0`).
 * `range(1, a+1)` → counts numbers `1` to `a` → matches the problem’s “between 1 and a” expectation.
 
-That’s why you got **43** with the first version but **45** with the second.
 
 ---
+
 
 
 
